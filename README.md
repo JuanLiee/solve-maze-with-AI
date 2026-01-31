@@ -1,1 +1,1 @@
-# solve-maze-with-AI
+# solve-maze-with-AI-Juan
